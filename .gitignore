@@ -1,3 +1,5 @@
+excludesfile = /home/.../.gitignore_global
+
 *.tar.gz
 
 *.exe
